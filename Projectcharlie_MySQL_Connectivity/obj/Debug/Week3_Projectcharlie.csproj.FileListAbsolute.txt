@@ -1,0 +1,172 @@
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week3_Projectcharlie\bin\Debug\Week3_Projectcharlie.exe.config
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week3_Projectcharlie\bin\Debug\Week3_Projectcharlie.exe
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week3_Projectcharlie\bin\Debug\Week3_Projectcharlie.pdb
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week3_Projectcharlie\obj\Debug\Week3_Projectcharlie.csprojAssemblyReference.cache
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week3_Projectcharlie\obj\Debug\Week3_Projectcharlie.Form1.resources
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week3_Projectcharlie\obj\Debug\Week3_Projectcharlie.Properties.Resources.resources
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week3_Projectcharlie\obj\Debug\Week3_Projectcharlie.csproj.GenerateResource.cache
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week3_Projectcharlie\obj\Debug\Week3_Projectcharlie.csproj.CoreCompileInputs.cache
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week3_Projectcharlie\obj\Debug\Week3_Projectcharlie.exe
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week3_Projectcharlie\obj\Debug\Week3_Projectcharlie.pdb
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week3_Projectcharlie\obj\Debug\Week3_Projectcharlie.Form2.resources
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week3_Projectcharlie\bin\Debug\Week3_Projectcharlie.exe.manifest
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week3_Projectcharlie\bin\Debug\Week3_Projectcharlie.application
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week3_Projectcharlie\obj\Debug\Week3_Projectcharlie.exe.manifest
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week3_Projectcharlie\obj\Debug\Week3_Projectcharlie.application
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\Week3_Projectcharlie.exe.config
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\Week3_Projectcharlie.exe.manifest
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\Week3_Projectcharlie.application
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\Week3_Projectcharlie.exe
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\Week3_Projectcharlie.pdb
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.csprojAssemblyReference.cache
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.Form1.resources
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.Form2.resources
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.Properties.Resources.resources
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.csproj.GenerateResource.cache
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.csproj.CoreCompileInputs.cache
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.exe.manifest
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.application
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.exe
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.pdb
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\MySql.Data.dll
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\Google.Protobuf.dll
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\Zstandard.Net.dll
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\System.Memory.dll
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\System.Buffers.dll
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\MySql.Data.xml
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.csproj.CopyComplete
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\Week3_Projectcharlie.exe.config
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\Week3_Projectcharlie.exe.manifest
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\Week3_Projectcharlie.application
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\Week3_Projectcharlie.exe
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\Week3_Projectcharlie.pdb
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\MySql.Data.dll
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\Google.Protobuf.dll
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\Zstandard.Net.dll
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\System.Memory.dll
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\System.Buffers.dll
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\MySql.Data.xml
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.csprojAssemblyReference.cache
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.Form1.resources
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.Form2.resources
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.Form4.resources
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.Properties.Resources.resources
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.csproj.GenerateResource.cache
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.csproj.CoreCompileInputs.cache
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.exe.manifest
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.application
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.csproj.CopyComplete
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.exe
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.pdb
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\Google.Protobuf.pdb
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\Google.Protobuf.xml
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\System.Buffers.xml
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\System.Memory.xml
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mohit Techtorium\Documents\Projectcharlie_MySQL_Connectivity\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\Week3_Projectcharlie.exe.config
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\Week3_Projectcharlie.exe.manifest
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\Week3_Projectcharlie.application
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\Week3_Projectcharlie.exe
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\Week3_Projectcharlie.pdb
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\Google.Protobuf.dll
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\MySql.Data.dll
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\System.Buffers.dll
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\System.Memory.dll
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\Zstandard.Net.dll
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\Google.Protobuf.pdb
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\Google.Protobuf.xml
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\MySql.Data.xml
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\System.Buffers.xml
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\System.Memory.xml
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.csprojAssemblyReference.cache
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.Form1.resources
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.Form2.resources
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.Form4.resources
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.Properties.Resources.resources
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.csproj.GenerateResource.cache
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.csproj.CoreCompileInputs.cache
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.exe.manifest
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.application
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.csproj.CopyComplete
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.exe
+C:\Users\Mohit Techtorium\Documents\backup\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.pdb
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.exe
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.pdb
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\Week3_Projectcharlie.exe.config
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\Week3_Projectcharlie.exe.manifest
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\Week3_Projectcharlie.application
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\Week3_Projectcharlie.exe
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\Week3_Projectcharlie.pdb
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\Google.Protobuf.dll
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\MySql.Data.dll
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\System.Buffers.dll
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\System.Memory.dll
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\Zstandard.Net.dll
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\Google.Protobuf.pdb
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\Google.Protobuf.xml
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\MySql.Data.xml
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\System.Buffers.xml
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\System.Memory.xml
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.csprojAssemblyReference.cache
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.Form1.resources
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.Form2.resources
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.Form4.resources
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.Properties.Resources.resources
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.csproj.GenerateResource.cache
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.csproj.CoreCompileInputs.cache
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.exe.manifest
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.application
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.csproj.CopyComplete
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.exe
+C:\Users\Mohit Techtorium\Documents\file\Projectcharlie_MySQL_Connectivity(version2)\obj\Debug\Week3_Projectcharlie.pdb
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\Google.Protobuf.pdb
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\Google.Protobuf.xml
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\System.Buffers.xml
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\System.Memory.xml
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\Term_2_projects\DBMS- SQL\Project_Visitor_Information_Codes\Projectcharlie_MySQL_Connectivity\obj\Debug\Week3_Projectcharlie.Form4.resources
